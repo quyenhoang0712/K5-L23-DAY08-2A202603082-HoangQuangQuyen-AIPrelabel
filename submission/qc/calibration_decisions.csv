@@ -1,1 +1,5 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+
+CAL-01,img_013.jpg,cau_hoi_mo,"Mask xe ba bánh có gồm người ngồi trong xe và khoảng trống xuyên khung không?","Người lái và hành khách là đối tượng person riêng; mask xe chỉ giữ các bộ phận thuộc xe","Làm rõ mục 4.2: giữ mái khung thân bánh và kính gắn liền xe; loại người và khoảng trống lớn xuyên khung",v1.1
+CAL-02,img_009.jpg,loi_may,"Xe máy chở hàng bị nhận nhầm thành three_wheeler","Xe máy hai bánh chở hàng vẫn là motorbike; chỉ gán three_wheeler cho xe có cấu trúc ba bánh","Bổ sung ví dụ img_009 vào quy tắc phân biệt motorbike và three_wheeler; không phân loại dựa vào lượng hàng chở",v1.1
+CAL-03,img_014.jpg,cau_hoi_mo,"Người gánh hàng có tính cả đòn gánh và hai giỏ vào nhãn person không?","Gán person cho cơ thể người; không tính đòn gánh và giỏ hàng vào box người","Bổ sung mục 4.1: box person bao phần cơ thể nhìn thấy; hàng hóa và dụng cụ mang theo không thuộc person",v1.1

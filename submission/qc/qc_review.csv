@@ -1,0 +1,11 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,21,thua,Hoàng Quảng Quyền,phát hiện: box person #21 trùng người lái đã có person #2; đề nghị xác nhận.
+img_004.jpg,33,thua,Hoàng Quảng Quyền,phát hiện: box car #33 nằm trong xe tuk-tuk đã gán three_wheeler #26; vừa trùng vừa sai lớp.
+img_008.jpg,80,thua,Hoàng Quảng Quyền,"Nghi vấn box thừa: xe đẩy hàng mép phải chỉ thấy cấu trúc xe đẩy, chưa xác nhận 3 bánh; cần đối chiếu guideline và kiểm lại."
+img_008.jpg,81,thua,Hoàng Quảng Quyền,"Nghi vấn box thừa: xe đẩy trái cây giữa ảnh có hai bánh lớn, không giống three_wheeler trong taxonomy."
+img_008.jpg,82,thua,Hoàng Quảng Quyền,"Nghi vấn box thừa: xe đẩy chuối bên trái có hai bánh lớn, không giống xe ba bánh trong taxonomy."
+img_014.jpg,,khong,Hoàng Quảng Quyền,Đã đối chiếu ảnh gốc và 16 box; chưa thấy lỗi chắc chắn. Motorbike #111 bị che một phần nhưng không đủ căn cứ xóa.
+img_017.jpg,126,thua,Hoàng Quảng Quyền,Nghi vấn box thừa: person #126 chỉ khoanh đầu/vai người phía sau mui tuk-tuk; phần nhìn thấy có vẻ dưới 20% cơ thể.
+img_018.jpg,,khong,Hoàng Quảng Quyền,Đã đối chiếu ảnh gốc và 50 box; chưa thấy lỗi chắc chắn. Hai người cùng ngồi xe góc trái dưới là hai cá thể khác nhau.
+img_023.jpg,,khong,Hoàng Quảng Quyền,Chưa thấy lỗi chắc chắn. Three_wheeler #231 bị cắt mép và đã đánh can_review=true; cần xác nhận lớp khi có thêm bằng chứng.
+img_035.jpg,,khong,Hoàng Quảng Quyền,"Chưa thấy lỗi chắc chắn. Bicycle #405 tương ứng xe đạp nhỏ phía xa, không kết luận là sai lớp chỉ vì bẫy lọt."
