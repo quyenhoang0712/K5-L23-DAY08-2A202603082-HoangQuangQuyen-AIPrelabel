@@ -2,7 +2,7 @@
 
 - **Họ và tên:** Hoàng Quảng Quyền
 - **MSHV:** 2A202603082
-- **Lớp:** AI Thực Chiến K5 — Level 2 (repo K5-L23)
+- **Lớp:** L2
 - **Tài khoản GitHub:** `quyenhoang0712`
 - **Repo bài nộp:** [K5-L23-DAY08-2A202603082-HoangQuangQuyen-AIPrelabel](https://github.com/quyenhoang0712/K5-L23-DAY08-2A202603082-HoangQuangQuyen-AIPrelabel)
 - **Commit chứa bộ dữ liệu và báo cáo Day 8:** [`499946f5`](https://github.com/quyenhoang0712/K5-L23-DAY08-2A202603082-HoangQuangQuyen-AIPrelabel/commit/499946f5c154a82c451009b1d59479e939694e33)
